@@ -1,4 +1,4 @@
-# Blue Birds' Prompts
+# Blue Birds' Prompts 🐦💙
 
 Welcome to Blue Birds' Prompts! This repository is a curated collection of frequently used prompts, brought to you by BlueBirdBack. The aim is to provide a comprehensive library of prompts for various domains, which can be reused and referenced easily. 
 
@@ -6,6 +6,7 @@ Welcome to Blue Birds' Prompts! This repository is a curated collection of frequ
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Prompts](#prompts)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -20,6 +21,12 @@ git clone https://github.com/BlueBirdBack/BlueBirdsPrompts.git
 ## Usage
 
 You can navigate through the directory to find prompts for various domains. Feel free to use these prompts in your own projects.
+
+## Prompts
+
+Here's a glimpse of the prompts we have:
+
+- [GPT-5 Role-Play Prompt](./as_gpt_5.md)
 
 ## Contributing
 
